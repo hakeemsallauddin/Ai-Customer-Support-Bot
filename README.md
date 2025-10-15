@@ -33,15 +33,15 @@ ai-customer-support-bot/
 
 ### 1. Clone the repository
 
-git clone https://github.com/hakeemsallauddin/Ai-Customer-Support-Bot.git
+        git clone https://github.com/hakeemsallauddin/Ai-Customer-Support-Bot.git
 
 
-cd ai-customer-support-bot
+        cd ai-customer-support-bot
 
 
 ### 2. Install dependencies
 
-    npm install
+        npm install
 
 
 ### 3. Environment Variables
