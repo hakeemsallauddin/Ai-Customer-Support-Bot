@@ -48,7 +48,7 @@ cd ai-customer-support-bot
 
 Create a `.env.local` file in the root directory:
 
-## OPENROUTER_API_KEY=your_openrouter_api_key
+        OPENROUTER_API_KEY=your_openrouter_api_key
 
 
 Replace `your_openrouter_api_key` with your actual OpenRouter API key.
