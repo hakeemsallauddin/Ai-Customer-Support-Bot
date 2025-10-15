@@ -34,19 +34,21 @@ ai-customer-support-bot/
 ### 1. Clone the repository
 
 git clone https://github.com/hakeemsallauddin/Ai-Customer-Support-Bot.git
+
+
 cd ai-customer-support-bot
 
 
 ### 2. Install dependencies
 
-npm install
+    npm install
 
 
 ### 3. Environment Variables
 
 Create a `.env.local` file in the root directory:
 
-OPENROUTER_API_KEY=your_openrouter_api_key
+## OPENROUTER_API_KEY=your_openrouter_api_key
 
 
 Replace `your_openrouter_api_key` with your actual OpenRouter API key.
@@ -57,7 +59,7 @@ Replace `your_openrouter_api_key` with your actual OpenRouter API key.
 
 1. **Start the development server**
 
-npm run dev
+        npm run dev
 
 
 2. **Open the app** in your browser at [http://localhost:3000](http://localhost:3000).
