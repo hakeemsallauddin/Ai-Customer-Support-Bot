@@ -57,7 +57,7 @@ Replace `your_openrouter_api_key` with your actual OpenRouter API key.
 
 1. **Start the development server**
 
-    npm run dev
+        npm run dev
 
 
 2. **Open the app** in your browser at [http://localhost:3000](http://localhost:3000).
