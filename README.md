@@ -7,25 +7,25 @@ A modern, AI-powered customer support chatbot using OpenRouter’s LLM API. Feat
 ## 📁 Project Structure
 
 ai-customer-support-bot/
-│
-├── app/
-│ ├── page.tsx
-│ └── layout.tsx
-│
-├── components/
-│ ├── ChatBox.jsx
-│ └── FAQSection.jsx
-│
-├── data/
-│ └── faqs.json
-│
-├── pages/
-│ └── api/
-│ └── chat.js
-│
-├── public/
-│ └── icons/
-│
+    │
+    ├── app/
+    │ ├── page.tsx
+    │ └── layout.tsx
+    │
+    ├── components/
+    │ ├── ChatBox.jsx
+    │ └── FAQSection.jsx
+    │
+    ├── data/
+    │ └── faqs.json
+    │
+    ├── pages/
+    │ └── api/
+    │ └── chat.js
+    │
+    ├── public/
+    │ └── icons/
+    │
 
 ---
 
