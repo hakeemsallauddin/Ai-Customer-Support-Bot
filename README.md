@@ -6,7 +6,7 @@ A modern, AI-powered customer support chatbot using OpenRouter’s LLM API. Feat
 
 ## 📁 Project Structure
 
-ai-customer-support-bot/
+    ai-customer-support-bot/
     │
     ├── app/
     │ ├── page.tsx
